@@ -38,7 +38,7 @@ Android 4.0 及以上。
 
 | 扫码加入神策数据开源社区 QQ 讨论群，群号：785122381 | 扫码关注微信公众号 |
 | ------ | ------ |
-|![ QQ 讨论群](docs/qrCode.jpeg) | ![ 微信公众号 ](docs/qrcode_for_wechat_344.jpg) |
+|![ QQ 讨论群](docs/qrCode.J) | ![ 微信公众号 ](docs/qrcode_for_wechat_344.jpg) |
 
 ## 新书推荐
 
